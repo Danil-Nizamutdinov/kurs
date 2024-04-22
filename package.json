@@ -25,8 +25,14 @@
   "dependencies": {
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
+    "axios": "^1.6.8",
+    "css-loader": "^7.1.1",
     "husky": "^8.0.3",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "style-loader": "^4.0.0"
   }
 }
